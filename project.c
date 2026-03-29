@@ -4,6 +4,7 @@ dslfjla
 dmanfa
 our project
 asdfasdfasdlkfjklsdjf;laskd
+<<<<<<< HEAD
 fdsfdsfds
 dsfdsfdsfsdf
 
@@ -13,3 +14,7 @@ sdfdsfdsf
 s
 dfsfsdfds
 
+=======
+mdjadslkda
+hi my name is baibhav
+>>>>>>> 0211a773297eeaa48776841c157047ece36cace1
